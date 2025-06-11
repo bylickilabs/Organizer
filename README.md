@@ -1,16 +1,17 @@
-# 📌 FS-Organizer CLI – Rust-Datei-Organizer
+|📌 FS-Organizer CLI – Rust-Datei-Organizer|
+|---|
 
-> **Wichtig:** Um dieses Tool zu nutzen, ersetze die Standarddateien durch die Dateien dieses Repositories!
+-  **Wichtig:** Um dieses Tool zu nutzen, ersetze die Standarddateien durch die Dateien dieses Repositories!
 
 ---
 
-## 🚩 Ziel des Tools
+> 🚩 Ziel des Tools
 
 Dieses Rust-Tool organisiert automatisch Dateien nach Typen, ideal für übersichtliche und strukturierte Ordner.
 
 ---
 
-## 📋 Voraussetzungen
+>📋 Voraussetzungen
 
 - Rust & Cargo ([Installation hier](https://rustup.rs/))
 
