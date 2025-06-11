@@ -1,0 +1,11 @@
+[package]
+name = "fs-organizer"
+version = "0.1.0"
+edition = "2021"  # << hier korrigieren
+
+[dependencies]
+glob = "0.3"
+dirs = "5.0"  # << optional hinzugefügt falls noch nicht vorhanden
+clap = { version = "4.5.40", features = ["derive"] }
+log = "0.4.27"
+simplelog = "0.12.2"
