@@ -3,13 +3,21 @@
 
 -  **Wichtig:** Um dieses Tool zu nutzen, ersetze die Standarddateien durch die Dateien dieses Repositories!
 
+<br>
+
 ---
+
+<br>
 
 > 🚩 Ziel des Tools
 
 Dieses Rust-Tool organisiert automatisch Dateien nach Typen, ideal für übersichtliche und strukturierte Ordner.
 
+<br>
+
 ---
+
+<br>
 
 >📋 Voraussetzungen
 
